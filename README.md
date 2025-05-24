@@ -13,11 +13,11 @@ Plot_blandaltman.m and Plot_regression.m files are used to plot the results of b
 ## Cite
 Please cite below paper if the code was used in your research or development.
 
-@article{liu2025camera,
-  title={Camera-Based Dual-Wavelength Defocused Speckle Imaging for Multi-Point Seismocardiographic Motion Measurement},
-  author={Liu, Lin and Wei, Qiang and Li, Haozhe and Shan, Caifeng and Wang, Wenjin},
-  journal={IEEE Journal of Biomedical and Health Informatics}, 
-  year={2025},
-  publisher={IEEE}  
-}
- 
+    @article{liu2025camera,
+      title={Camera-Based Dual-Wavelength Defocused Speckle Imaging for Multi-Point Seismocardiographic Motion Measurement},
+      author={Liu, Lin and Wei, Qiang and Li, Haozhe and Shan, Caifeng and Wang, Wenjin},
+      journal={IEEE Journal of Biomedical and Health Informatics}, 
+      year={2025},
+      publisher={IEEE}  
+    }
+     
